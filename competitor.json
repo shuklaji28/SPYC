@@ -1,0 +1,58 @@
+{ "data" :
+    [
+    {
+        "id": 1,
+        "name": "AgentForge",
+        "founded_year": 2020,
+        "company_size": "50-100",
+        "funding": "$15M Series A",
+        "description": "Building AI agents for customer service automation with focus on retail and e-commerce",
+        "main_products": "CustomerBot, RetailAssist, E-commerce Agent Suite",
+        "business_model": "SaaS with tiered pricing based on conversation volume",
+        "target_markets": ["Retail", "E-commerce", "Customer Support"],
+        "website": "agentforge.ai",
+        "hq_location": "San Francisco, CA"
+    },
+
+    {
+        "id": 2,
+        "name": "CogniAgents",
+        "founded_year": 2021,
+        "company_size": "25-50",
+        "funding": "$8M Seed",
+        "description": "Creating specialized AI agents that can autonomously complete complex workflows in enterprise settings",
+        "main_products": "WorkflowGPT, TaskMaster, Agent Builder Platform",
+        "business_model": "Enterprise licensing with professional services",
+        "target_markets": ["Enterprise", "Business Process Automation", "Workflow Management"],
+        "website": "cogniagents.com",
+        "hq_location": "Boston, MA"
+    },
+
+    {
+        "id": 3,
+        "name": "AgentiveAI",
+        "founded_year": 2022,
+        "company_size": "10-25",
+        "funding": "$5M Seed",
+        "description": "Open source framework for building customizable AI agents with improved reasoning capabilities",
+        "main_products": "Agentive Framework, AgentStudio IDE, Enterprise Agent Manager",
+        "business_model": "Open core with enterprise features as paid tier",
+        "target_markets": ["Developers", "AI Research", "Enterprise IT"],
+        "website": "agentive.ai",
+        "hq_location": "Austin, TX"
+    },
+    {
+        "id": 4,
+        "name": "Copilot Systems",
+        "founded_year": 2019,
+        "company_size": "100-250",
+        "funding": "$45M Series B",
+        "description": "AI assistants that integrate with productivity software to automate tasks and enhance productivity",
+        "main_products": "TaskCopilot, MeetingCopilot, EmailCopilot, Research Assistant",
+        "business_model": "Freemium SaaS with team and enterprise plans",
+        "target_markets": ["Knowledge Workers", "Remote Teams", "Enterprise Productivity"],
+        "website": "copilotsystems.com",
+        "hq_location": "New York, NY"
+    }
+    ]
+}
