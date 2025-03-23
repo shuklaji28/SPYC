@@ -1,0 +1,57 @@
+{"data" : [
+    {
+        "id": 1,
+        "competitor_id": 1,
+        "platform": "Twitter",
+        "post_date": "2023-08-15",
+        "content": "Excited to announce our new CustomerBot 2.0 with enhanced sentiment analysis and multilingual support!",
+        "url": "https://twitter.com/AgentForge/status/123456789",
+        "engagement": {"likes": 145, "retweets": 32, "replies": 18}
+    },
+    {
+        "id": 2,
+        "competitor_id": 2,
+        "platform": "LinkedIn",
+        "post_date": "2023-07-22",
+        "content": "CogniAgents raises $8M seed round to build the next generation of enterprise workflow automation with AI agents",
+        "url": "https://linkedin.com/company/cogniagents/posts/12345",
+        "engagement": {"likes": 342, "comments": 56, "shares": 89}
+    },
+    {
+        "id": 3,
+        "competitor_id": 3,
+        "platform": "GitHub",
+        "post_date": "2023-09-01",
+        "content": "Agentive Framework v2.0 released with improved reasoning capabilities and support for multi-agent collaboration",
+        "url": "https://github.com/agentiveai/framework/releases/v2.0",
+        "engagement": {"stars": 2500, "forks": 320, "issues": 45}
+    },
+    {
+        "id": 4,
+        "competitor_id": 4,
+        "platform": "TechCrunch",
+        "post_date": "2023-06-10",
+        "content": "Copilot Systems secures $45M Series B to expand its AI productivity assistant suite across enterprise customers",
+        "url": "https://techcrunch.com/2023/06/10/copilot-systems-45m-series-b",
+        "engagement": {"comments": 78, "shares": 256}
+    },
+    {
+        "id": 5,
+        "competitor_id": 1,
+        "platform": "ProductHunt",
+        "post_date": "2023-04-05",
+        "content": "RetailAssist launches on ProductHunt - Your AI shopping assistant for physical and online retail",
+        "url": "https://producthunt.com/posts/retailassist",
+        "engagement": {"upvotes": 580, "comments": 93}
+    },
+    {
+        "id": 6,
+        "competitor_id": 2,
+        "platform": "Blog",
+        "post_date": "2023-08-30",
+        "content": "How CogniAgents is revolutionizing enterprise workflows with our new agent orchestration platform",
+        "url": "https://cogniagents.com/blog/revolutionizing-enterprise-workflows",
+        "engagement": {"views": 1250, "comments": 24}
+    }
+]
+}

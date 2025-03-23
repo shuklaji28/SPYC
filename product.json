@@ -1,0 +1,58 @@
+{"data":[
+    {
+        "id": 1,
+        "competitor_id": 1,
+        "name": "CustomerBot",
+        "launch_date": "2021-03-15",
+        "description": "AI customer service agent that handles complex customer inquiries across multiple channels",
+        "key_features": "Natural language understanding, Sentiment analysis, Multi-channel support, CRM integration",
+        "pricing": "Starting at $1000/month for 1000 conversations",
+        "technology_stack": "GPT-4, Custom NLP, React frontend, Python backend",
+        "target_customers": "Medium to large retailers"
+    },
+    {
+        "id": 2,
+        "competitor_id": 1,
+        "name": "RetailAssist",
+        "launch_date": "2022-06-10",
+        "description": "In-store and online shopping assistant that helps customers find products and provides recommendations",
+        "key_features": "Product knowledge base, Personalized recommendations, Inventory integration, Voice interface",
+        "pricing": "$1500/month per store location",
+        "technology_stack": "GPT-4, Vector search, iOS/Android apps, Node.js backend",
+        "target_customers": "Physical retail stores with online presence"
+    },
+    {
+        "id": 3,
+        "competitor_id": 2,
+        "name": "WorkflowGPT",
+        "launch_date": "2022-01-20",
+        "description": "AI system that orchestrates complex business workflows by coordinating multiple specialized agents",
+        "key_features": "Workflow designer, Multi-agent coordination, API integrations, Audit logging",
+        "pricing": "Custom enterprise pricing, typically $50k-200k annually",
+        "technology_stack": "Custom LLM, React dashboard, Python middleware, Enterprise connectors",
+        "target_customers": "Fortune 1000 companies"
+    },
+    {
+        "id": 4,
+        "competitor_id": 3,
+        "name": "Agentive Framework",
+        "launch_date": "2022-09-05",
+        "description": "Open source framework for building, testing and deploying custom AI agents with advanced reasoning",
+        "key_features": "Agent reasoning engine, Tool use framework, Memory systems, Multi-agent communication",
+        "pricing": "Free open source, enterprise support starting at $5k/month",
+        "technology_stack": "Python, React, Various LLM support, Docker deployment",
+        "target_customers": "AI developers and researchers"
+    },
+    {
+        "id": 5,
+        "competitor_id": 4,
+        "name": "TaskCopilot",
+        "launch_date": "2020-11-12",
+        "description": "AI assistant that helps users manage and complete tasks by integrating with productivity tools",
+        "key_features": "Task prioritization, Email processing, Calendar management, Document drafting",
+        "pricing": "Free tier, $20/user/month pro, $35/user/month enterprise",
+        "technology_stack": "GPT-3.5, Chrome extension, SaaS platform, Microsoft 365 integration",
+        "target_customers": "Knowledge workers and professionals"
+    }
+]
+}

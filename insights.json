@@ -1,0 +1,23 @@
+{"data":[
+    {
+        "id": 1,
+        "title": "AI Agent Market Landscape 2023",
+        "date": "2023-07-15",
+        "source": "SPYC Research Team",
+        "content": "The AI agent market is seeing rapid growth with enterprise adoption accelerating. Key segments include customer service agents, productivity assistants, and specialized industry agents. Open source frameworks are gaining traction among developers.",
+        "competitors_mentioned": [1, 2, 4],
+        "key_trends": ["Enterprise adoption", "Vertical specialization", "Multi-agent systems", "Open source frameworks"],
+        "market_size": "$2.5B with projected 35% CAGR"
+    },
+    {
+        "id": 2,
+        "title": "Customer Service Agent Competitive Analysis",
+        "date": "2023-08-10",
+        "source": "SPYC Research Team",
+        "content": "In the customer service AI agent space, we're seeing increasing focus on emotional intelligence and personalization. AgentForge leads in retail, while several new entrants focus on healthcare and financial services verticals.",
+        "competitors_mentioned": [1],
+        "key_trends": ["Emotional intelligence", "Industry-specific knowledge", "Omnichannel support"],
+        "market_size": "$850M segment with 42% CAGR"
+    }
+]
+}
