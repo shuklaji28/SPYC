@@ -28,8 +28,10 @@ SPYC (Spy Your Competitor) is an AI-powered platform designed to analyze and tra
    drop_all_indexes()
    find_similar_products()
 
-   #querying and improving search results
+   #querying and improving search results with cross table querying and mapping
    find_tech_trends()
+
+   
    hybrid_search_products()
    
 ```
