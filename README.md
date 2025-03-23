@@ -12,11 +12,10 @@ SPYC (Spy Your Competitor) is an AI-powered platform designed to analyze and tra
 
 ## Technologies Used
 - **LanceDB**: A vector database optimized for AI applications.
-- **Langchain**: Gor building Agentic AI applications.
+- **Langchain**: Gor building Agentic AI application.
 - **Gemini**: LLM for querying in natural language and enabling agentic feature of SPYC.
 - **Python**: For data processing and AI model integration.
 - **JSON**: For structured data storage.
-- **Google Colab**: For easy experimentation and model training.
 
 ## Function in Focus
 ```python
@@ -41,7 +40,7 @@ SPYC (Spy Your Competitor) is an AI-powered platform designed to analyze and tra
    git clone https://github.com/shuklaji28/SPYC.git
    cd SPYC
    ```
-2. Install dependencies:
+2. Install dependencies and Load Dataset from JSON Files:
    ```sh
    pip install lancedb pandas numpy scikit-learn #refer notebook for detailed info
    ```
