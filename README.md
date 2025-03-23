@@ -20,6 +20,20 @@ SPYC (Spy Your Competitor) is an AI-powered platform designed to analyze and tra
 - **JSON**: For structured data storage.
 - **Google Colab**: For easy experimentation and model training.
 
+## Function in Focus
+```python
+   create_fts_indices(competitors_table, ["business_model","description"])  # List input of column names
+   create_fts_indices(content_table, "content")  # String input
+   
+   drop_all_indexes()
+   find_similar_products()
+
+   #querying and improving search results
+   hybrid_search_products()
+   
+```
+
+
 ## Installation
 1. Clone the repository:
    ```sh
