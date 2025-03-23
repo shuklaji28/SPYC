@@ -42,7 +42,7 @@ SPYC (Spy Your Competitor) is an AI-powered platform designed to analyze and tra
    ```
 2. Install dependencies and Load Dataset from JSON Files:
    ```sh
-   pip install lancedb pandas numpy scikit-learn #refer notebook for detailed info
+   pip install lancedb pandas numpy langchain #refer notebook for detailed info
    ```
 3. Run the Jupyter notebook:
    ```sh
