@@ -3,8 +3,6 @@
 ## Overview
 SPYC (Spy Your Competitor) is an AI-powered platform designed to analyze and track competitor strategies using advanced vector search and data processing. It enables businesses to gain insights into their competition by leveraging AI-driven content analysis, trend identification, and data aggregation techniques.
 
-![image](https://github.com/user-attachments/assets/d03e9d5e-f67b-4c01-9544-15007f2a27e5)
-
 ## Features
 - **Competitor Tracking**: Stores competitor information, business models, and market trends.
 - **AI-Powered Insights**: Uses natural language processing (NLP) and vector search to extract key trends from competitor data.
