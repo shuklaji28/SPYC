@@ -15,7 +15,7 @@ SPYC (Spy Your Competitor) is an AI-powered platform designed to analyze and tra
 ## Technologies Used
 - **LanceDB**: A vector database optimized for AI applications.
 - **Langchain**: Gor building Agentic AI applications.
-- 
+- **Gemini**: LLM for querying in natural language and enabling agentic feature of SPYC.
 - **Python**: For data processing and AI model integration.
 - **JSON**: For structured data storage.
 - **Google Colab**: For easy experimentation and model training.
